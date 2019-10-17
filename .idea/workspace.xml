@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="068311ca-ae12-4df7-bbf0-3968873022c9" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RDcWLVnxzEvFl0jfn42CLqx9uD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/bol/test/assignment" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.bol.test.assignment.image.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bol.test.assignment.repository.elasticsearch" />
+      <recent name="com.bol.test.assignment.model.elasticsearch" />
+      <recent name="com.bol.test.assignment.configuration.elasticsearch" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/bol/test/assignment" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AggregatorApplication">
+    <configuration name="AggregatorServiceTest.offerServiceFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.test.assignment.aggregator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.test.assignment.aggregator" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.test.assignment.aggregator.AggregatorServiceTest" />
+      <option name="METHOD_NAME" value="offerServiceFailed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregatorServiceTest.orderServiceFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.test.assignment.aggregator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.test.assignment.aggregator" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.test.assignment.aggregator.AggregatorServiceTest" />
+      <option name="METHOD_NAME" value="orderServiceFailed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregatorServiceTest.productServiceFailed" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.test.assignment.aggregator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.test.assignment.aggregator" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.test.assignment.aggregator.AggregatorServiceTest" />
+      <option name="METHOD_NAME" value="productServiceFailed" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregatorServiceTest.simpleHappyFlow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="es-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.test.assignment.aggregator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bol.test.assignment.aggregator" />
+      <option name="MAIN_CLASS_NAME" value="com.bol.test.assignment.aggregator.AggregatorServiceTest" />
+      <option name="METHOD_NAME" value="simpleHappyFlow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AggregatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="es-spring-boot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bol.test.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bol.test.assignment.AggregatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.AggregatorApplication" />
+        <item itemvalue="JUnit.AggregatorServiceTest.productServiceFailed" />
+        <item itemvalue="JUnit.AggregatorServiceTest.offerServiceFailed" />
+        <item itemvalue="JUnit.AggregatorServiceTest.simpleHappyFlow" />
+        <item itemvalue="JUnit.AggregatorServiceTest.orderServiceFailed" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="068311ca-ae12-4df7-bbf0-3968873022c9" name="Default Changelist" comment="" />
+      <created>1569205137690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569205137690</updated>
+      <workItem from="1569205141444" duration="15901000" />
+      <workItem from="1569237985894" duration="8342000" />
+      <workItem from="1569291173384" duration="1985000" />
+      <workItem from="1569378345125" duration="189000" />
+      <workItem from="1569408861540" duration="34000" />
+      <workItem from="1569410248559" duration="2552000" />
+      <workItem from="1569551062973" duration="1211000" />
+      <workItem from="1571307905757" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
