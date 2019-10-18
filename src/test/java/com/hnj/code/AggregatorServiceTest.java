@@ -1,4 +1,4 @@
-package com.hnj.code.aggregator;
+package com.hnj.code;
 
 import com.bol.test.assignment.image.*;
 import com.hnj.code.image.impl.ImageServiceImpl;

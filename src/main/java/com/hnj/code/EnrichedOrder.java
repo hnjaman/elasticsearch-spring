@@ -1,4 +1,4 @@
-package com.hnj.code.aggregator;
+package com.hnj.code;
 
 import com.hnj.code.image.Image;
 import com.hnj.code.offer.OfferCondition;

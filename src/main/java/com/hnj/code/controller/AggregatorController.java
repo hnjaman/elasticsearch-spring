@@ -1,7 +1,7 @@
 package com.hnj.code.controller;
 
-import com.hnj.code.aggregator.AggregatorService;
-import com.hnj.code.aggregator.EnrichedOrder;
+import com.hnj.code.AggregatorService;
+import com.hnj.code.EnrichedOrder;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

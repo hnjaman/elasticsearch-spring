@@ -3,15 +3,12 @@ package com.hnj.code.model.elasticsearch;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-import org.springframework.boot.autoconfigure.domain.EntityScan;
+import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 import org.springframework.data.elasticsearch.annotations.Field;
 import org.springframework.data.elasticsearch.annotations.FieldType;
-
-import javax.persistence.Id;
 import java.util.List;
 
-@Entity
 @Document(indexName = "test")
 @Data
 @AllArgsConstructor
